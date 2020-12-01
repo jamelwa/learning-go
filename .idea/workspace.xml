@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01738294-9066-49ab-801d-ca82fb93cf54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/go-playground.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-world.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/2-call-code-from-external.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/3-playing-with-variable.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/4-playing-with-functions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/5-playing-with-slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/6-playing-with-type.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/deck-type.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-world.go" beforeDir="false" afterPath="$PROJECT_DIR$/basics/1-hello-world.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +42,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hello world" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,5 +74,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
   </component>
 </project>
